@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schnitzel5" alt="schnitzel5" /></a> </p>
 
-- 🔭 I’m currently working on [APMSystem](https://github.com/Schnitzel5/APMSystem)
+- 🔭 I’m currently working on [APMSystem](https://github.com/Schnitzel5/APMSystem-angular)
 
 - 🌱 I’m currently learning **C, C++, PHP Symfony**
 
