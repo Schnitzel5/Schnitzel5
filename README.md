@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Schnitzel5</h1>
-<h3 align="center">A passionate developer & data scientist from Austria</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schnitzel5&label=Profile%20views&color=5654c0&style=flat-square" alt="schnitzel5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schnitzel5" alt="schnitzel5" /></a> </p>
